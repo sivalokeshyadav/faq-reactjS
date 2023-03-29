@@ -1,0 +1,29 @@
+/* Write your code here. */
+.question-answer {
+  list-style-type: none;
+  font-family: 'Roboto';
+  border: 1px #d7dae6 solid;
+  padding: 10px;
+  margin: 0px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img-icon {
+  background-color: transparent;
+  outline: none;
+}
+
+.btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

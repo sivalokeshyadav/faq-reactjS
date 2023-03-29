@@ -1,0 +1,32 @@
+/* Write your code here. */
+* {
+  font-family: 'Roboto';
+}
+
+.faq-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 20px;
+  margin: 30px;
+  padding: 30px;
+}
+
+.heading {
+  color: #cb8805;
+  font-size: 60px;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #9aa5b1;
+  background-size: cover;
+}
